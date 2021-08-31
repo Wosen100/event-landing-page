@@ -25,6 +25,12 @@
 .venue__location {
     height: 100%;
 }
+
+.venue__map {
+    width: 100%;
+    height: 78%;
+    border: 1px solid;
+}
 .venue__img img {
     width: 100%;
     height: 100%;
