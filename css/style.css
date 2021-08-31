@@ -10,3 +10,23 @@
     width: 200px;
 
 }
+.jumbotron2 {
+    background-image: url(https://images.unsplash.com/photo-1452289765185-5df11aa2a706?ixid=MnwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8OHwxMjd8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1000&q=60);
+    background-size: cover;
+    width: 100%;
+    background-color: #01010161;
+    background-blend-mode: darken;
+}
+
+.venue {
+    height: 470px;
+}
+
+.venue__location {
+    height: 100%;
+}
+.venue__img img {
+    width: 100%;
+    height: 100%;
+    object-fit: fill;
+}
